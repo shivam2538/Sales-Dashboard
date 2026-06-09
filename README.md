@@ -1,88 +1,37 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Data%20Analysis-Project-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DAX-Measures-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
-</p>
+---
 
-<p align="center">
-  <b>📊 Interactive Business Intelligence Dashboard for Sales Performance Analysis</b>
-</p>
+## 📸 Dashboard Screenshot
+
+<img src="https://github.com/shivam2538/Sales-Dashboard/blob/main/Screenshot%20%2837%29.png?raw=true" alt="Blinkit Dashboard" width="1000">
 
 ---
 
-## 🚀 Quick Access
+## 📥 Dataset
 
-📂 Repository:
-https://github.com/shivam2538/Sales-Dashboard
+📊 Dataset File:
 
-📊 Dashboard Screenshot:
-https://github.com/shivam2538/Sales-Dashboard/blob/main/Screenshot%20%2837%29.png
+https://github.com/shivam2538/Sales-Dashboard/blob/main/Blinkit_Data.xlsx
 
-⭐ GitHub Profile:
-https://github.com/shivam2538
+📈 Power BI Dashboard File:
 
----
-
-## 📈 Business Impact
-
-This dashboard helps business stakeholders:
-
-✔ Monitor sales performance in real time
-
-✔ Identify top-performing product categories
-
-✔ Track outlet growth and profitability
-
-✔ Understand customer purchasing behavior
-
-✔ Make data-driven business decisions
+https://github.com/shivam2538/Sales-Dashboard/blob/main/Blinkit_Dashboard.pbix
 
 ---
 
-## 🎯 Skills Demonstrated
+## 🌟 Project Highlights
 
-* Data Cleaning
-* Data Transformation
-* Data Modeling
-* Power Query
-* DAX Calculations
-* Dashboard Design
-* Data Visualization
-* Business Intelligence
-* KPI Development
-* Analytical Thinking
+✔ Built an interactive Power BI dashboard for Blinkit sales analysis
 
----
+✔ Designed KPI cards to monitor Total Sales, Orders, Ratings, and Average Sales
 
-## 🏆 Dashboard Highlights
+✔ Performed product, outlet, and customer behavior analysis
 
-📌 Sales Overview Dashboard
+✔ Utilized Power Query for data cleaning and transformation
 
-📌 Product Performance Analysis
+✔ Created DAX measures for advanced business calculations
 
-📌 Outlet Performance Tracking
+✔ Developed dynamic visualizations with slicers and filters
 
-📌 Customer Insights Dashboard
-
-📌 Interactive Filters & Slicers
-
-📌 KPI Cards & Visual Analytics
+✔ Generated actionable insights to support business decision-making
 
 ---
-
-## 📊 Project Status
-
-✅ Completed
-
-✅ Dashboard Developed
-
-✅ KPIs Implemented
-
-✅ Insights Generated
-
-✅ Ready for Business Use
-
----
-
-### ⭐ If you found this project useful, please consider starring the repository.
