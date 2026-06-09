@@ -5,9 +5,7 @@
 <img src="https://github.com/shivam2538/Sales-Dashboard/blob/main/Screenshot%20%2837%29.png?raw=true" alt="Blinkit Dashboard" width="1000">
 # 🛒 Blinkit Sales Dashboard | Power BI
 
-<p align="center">
-  <img src="https://github.com/shivam2538/Sales-Dashboard/blob/main/Screenshot%20%2837%29.png?raw=true" alt="Blinkit Dashboard" width="1000">
-</p>
+
 
 ## 📌 Project Overview
 
@@ -15,19 +13,7 @@ The **Blinkit Sales Dashboard** is an interactive Power BI project developed to 
 
 ---
 
-## 🎯 Business Objectives
 
-✔ Analyze overall sales performance
-
-✔ Monitor customer purchasing patterns
-
-✔ Identify top-performing product categories
-
-✔ Compare outlet performance across locations
-
-✔ Track business growth and sales trends
-
-✔ Support strategic decision-making using KPIs
 
 ---
 
@@ -104,34 +90,7 @@ AVERAGE(Blinkit[Rating])
 
 ---
 
-## 📸 Dashboard Preview
 
-<p align="center">
-  <img src="https://github.com/shivam2538/Sales-Dashboard/blob/main/Screenshot%20%2837%29.png?raw=true" alt="Blinkit Dashboard" width="1000">
-</p>
-
----
-
-## 🔍 Key Insights
-
-* Identified the highest revenue-generating product categories.
-* Compared sales performance across outlet locations.
-* Analyzed customer satisfaction using rating trends.
-* Evaluated outlet establishment growth over time.
-* Discovered sales contribution by outlet size and type.
-* Identified high-demand product segments.
-
----
-
-## 📂 Project Files
-
-```text
-Sales-Dashboard/
-│
-├── Blinkit_Dashboard.pbix
-├── Blinkit_Data.xlsx
-├── README.md
-└── Dashboard Screenshot
 ```
 
 ---
