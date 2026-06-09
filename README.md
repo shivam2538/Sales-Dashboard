@@ -1,4 +1,6 @@
+<h2>Dashboard Screenshot</h2>
 
+<img src="https://github.com/shivam2538/Sales-Dashboard/blob/main/Screenshot%20%2837%29.png?raw=true" alt="Blinkit Dashboard" width="900">
 # Blinkit Sales Dashboard | Power BI
 
 ## Project Overview
