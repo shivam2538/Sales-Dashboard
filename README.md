@@ -1,117 +1,88 @@
-<h2>Dashboard Screenshot</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Project-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DAX-Measures-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
 
-<img src="https://github.com/shivam2538/Sales-Dashboard/blob/main/Screenshot%20%2837%29.png?raw=true" alt="Blinkit Dashboard" width="900">
-# Blinkit Sales Dashboard | Power BI
-
-## Project Overview
-
-The Blinkit Sales Dashboard is an interactive Power BI report designed to analyze sales performance, customer behavior, and product insights. The dashboard provides a comprehensive view of key business metrics, helping stakeholders make data-driven decisions.
-
----
-
-## Objectives
-
-* Analyze overall sales performance
-* Monitor customer purchasing patterns
-* Identify top-performing product categories
-* Track outlet performance across different locations
-* Visualize KPIs for business decision-making
+<p align="center">
+  <b>📊 Interactive Business Intelligence Dashboard for Sales Performance Analysis</b>
+</p>
 
 ---
 
-## Tools & Technologies
+## 🚀 Quick Access
 
-* Power BI
+📂 Repository:
+https://github.com/shivam2538/Sales-Dashboard
+
+📊 Dashboard Screenshot:
+https://github.com/shivam2538/Sales-Dashboard/blob/main/Screenshot%20%2837%29.png
+
+⭐ GitHub Profile:
+https://github.com/shivam2538
+
+---
+
+## 📈 Business Impact
+
+This dashboard helps business stakeholders:
+
+✔ Monitor sales performance in real time
+
+✔ Identify top-performing product categories
+
+✔ Track outlet growth and profitability
+
+✔ Understand customer purchasing behavior
+
+✔ Make data-driven business decisions
+
+---
+
+## 🎯 Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Data Modeling
 * Power Query
-* DAX (Data Analysis Expressions)
-* Microsoft Excel / CSV Dataset
+* DAX Calculations
+* Dashboard Design
+* Data Visualization
+* Business Intelligence
+* KPI Development
+* Analytical Thinking
 
 ---
 
-## Key Performance Indicators (KPIs)
+## 🏆 Dashboard Highlights
 
-* Total Sales
-* Total Orders
-* Average Sales
-* Number of Items Sold
-* Average Rating
+📌 Sales Overview Dashboard
 
----
+📌 Product Performance Analysis
 
-## Dashboard Features
+📌 Outlet Performance Tracking
 
-### Sales Analysis
+📌 Customer Insights Dashboard
 
-* Total revenue generated
-* Sales trend analysis
-* Category-wise sales breakdown
+📌 Interactive Filters & Slicers
 
-### Product Analysis
-
-* Top-selling products
-* Item type performance
-* Fat content analysis
-
-### Outlet Analysis
-
-* Outlet location performance
-* Outlet size distribution
-* Outlet establishment trends
-
-### Customer Insights
-
-* Purchase behavior analysis
-* Customer rating analysis
+📌 KPI Cards & Visual Analytics
 
 ---
 
-## DAX Measures Used
+## 📊 Project Status
 
-Total Sales = SUM(Blinkit[Sales])
+✅ Completed
 
-Total Orders = COUNT(Blinkit[Order_ID])
+✅ Dashboard Developed
 
-Average Sales = AVERAGE(Blinkit[Sales])
+✅ KPIs Implemented
 
-Average Rating = AVERAGE(Blinkit[Rating])
+✅ Insights Generated
 
----
-
-## Dashboard Screenshot
-
-<img src="images/blinkit_dashboard.png" alt="Blinkit Dashboard" width="900">
+✅ Ready for Business Use
 
 ---
 
-## Project Insights
-
-* Identified highest revenue-generating product categories.
-* Compared sales performance across outlet locations.
-* Analyzed customer ratings and satisfaction trends.
-* Evaluated outlet establishment growth over time.
-
----
-
-## Files Included
-
-* Blinkit_Dashboard.pbix
-* Blinkit_Data.xlsx
-* README.md
-* Dashboard Screenshots
-
----
-
-## Future Enhancements
-
-* Real-time data integration
-* Forecasting using Power BI
-* Advanced customer segmentation
-* Automated report refresh
-
----
-
-## Author
-
-Shivam Bhardwaj
-
-Data Analyst | Power BI Developer | SQL | Python
+### ⭐ If you found this project useful, please consider starring the repository.
